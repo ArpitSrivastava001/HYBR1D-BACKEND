@@ -10,6 +10,9 @@ Step 2 :-
 cd HYBR1D-BACKEND
 
 Step 3 :-
+npm install
+
+Step 4 :-
 npm start
 
 
